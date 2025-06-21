@@ -8,7 +8,7 @@ Retention is the most important KPI in free-to-play mobile games. It is a measur
 Given the option, who would you prefer, a user who pays $100 once and never comes back or a user who pays $10 every week for 365 days? Obviously, you would prefer the latter. Similarly, to run a successful game, you would need users who can play and pay for a longer time.
 
 <!--more-->
------
+
 To bring users, you would need to spend money on marketing . This is called User Acquisition cost. For most games, this is the biggest expense. So, if users are not staying in the game i.e., lower retention, it will reduce the profit. 
 
 Profit = Revenue - Cost 
