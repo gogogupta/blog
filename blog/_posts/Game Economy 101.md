@@ -27,22 +27,32 @@ At each stage, a few users drop off. Our goal is to reduce these drop-offs.
 (D1 Retention = % of users come back on the day after installation) 
 
 ## KPIs to be Tracked
+
 Here are the main KPIs to be tracked for the retention 
-D0 Time Spent (in minutes)
-D1, D2 D3, D7, D15, D21, D30, D60 Retention 
+1. D0 Time Spent (in minutes)
+2. D1, D2 D3, D7, D15, D21, D30, D60 Retention 
 (If a user stays till D60, they are more likely to stay in the game for a long time)
-DAU/MAU (Stickiness) 
-D0 Timespent
+3. DAU/MAU (Stickiness) 
+
+### D0 Timespent
+
 Research shows that D0 time spent is the strong signal. Users who play longer on the day of install, they will be more likely to come back to the game.
 
-DAU/MAU - Stickiness
+### DAU/MAU - Stickiness
+
 It measures the % of monthly users who play daily. DAU/MAU of 30% is considered good in casual games.
-Rolling Retention 
+
+### Rolling Retention 
+
 Some gaming companies also measure rolling retention.
-Retention Dx - % of users who return on the xth day after installation.
-Rolling Retention Dx - % of users who return on the xth day or later after installation.
+
+1. Retention Dx - % of users who return on the xth day after installation.
+2. Rolling Retention Dx - % of users who return on the xth day or later after installation.
+
 In KPIs, we track the trend, not the absolute value. So, the trend of these two metrics is the same, and we can track either one of them. Since classic retention is the more popular one, we track that.
-Summary 
-Retention is the most important KPIs for a business. It will increase the user base over the time and thus overall revenue. 
-D0 time spent is the biggest signal of retention. If you can increase this, all the other metrics will be subsequently increased. 
-Retention is measured till D60. Post D60, % of drop is significantly low. 
+
+## Summary 
+
+1. Retention is the most important KPIs for a business. It will increase the user base over the time and thus overall revenue. 
+2. D0 time spent is the biggest signal of retention. If you can increase this, all the other metrics will be subsequently increased. 
+3. Retention is measured till D60. Post D60, % of drop is significantly low. 
