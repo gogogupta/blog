@@ -3,8 +3,6 @@ layout: post
 title: Retention KPIs
 ---
 
-
-
 Retention is the most important KPI in free-to-play mobile games. It is a measure of how many players are returning to the game after installing it. 
 
 Given the option, who would you prefer, a user who pays $100 once and never comes back or a user who pays $10 every week for 365 days? Obviously, you would prefer the latter. Similarly, to run a successful game, you would need users who can play and pay for a longer time.
