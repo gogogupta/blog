@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Increasing Retention
+truncated_preview: true
+excerpt_separator: <!--more-->
 ---
 
 Retention is the percentage of users who come back to the game again after installation after a given time period. For example, if D1 is 30%, 30% of the users come back again on the next day of installation. I believe retention is a primary KPI in LTV as we can figure out how to make money from retaining users. If there is no retained user, there is no money.
