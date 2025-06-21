@@ -1,57 +1,37 @@
 ---
 layout: post
-title: Retention KPIs
+title: Increasing Retention
 ---
 
-Retention is the most important KPI in free-to-play mobile games. It is a measure of how many players are returning to the game after installing it. 
+Retention is the percentage of users who come back to the game again after installation after a given time period. For example, if D1 is 30%, 30% of the users come back again on the next day of installation. I believe retention is a primary KPI in LTV as we can figure out how to make money from retaining users. If there is no retained user, there is no money.
 
-Given the option, who would you prefer, a user who pays $100 once and never comes back or a user who pays $10 every week for 365 days? Obviously, you would prefer the latter. Similarly, to run a successful game, you would need users who can play and pay for a longer time.
+## How to increase Retention? 
 
-<!--more-->
-To bring users, you would need to spend money on marketing . This is called User Acquisition cost. For most games, this is the biggest expense. So, if users are not staying in the game i.e., lower retention, it will reduce the profit. 
+Increasing it depends following three things
 
-Profit = Revenue - Cost 
-1. Revenue = Ads +In App Purchase. 
-2. Cost = Fixed cost like employees, infrastructure etc + UA cost
-On the other hand, if your retention is high, it will reduce cost and thus increase the profit. 
+1. Users should like the game 
+2. Users should think of coming back again to the game
+3. Users should return to the game 
 
-## Why Measure Retention? 
+### Users should like the game
 
-Retention works like a funnel:
-1. D1 depends on how users feel about the Day 0 gameplay.
-2. D2 depends on how many users came back on D1.
-3. D3 depends on D2, and so on.
+First, users should get to the game as quickly as possible. On first download, download only minimal files to let the user experience the game. As they grow older, we can start downloading other files in the background or on demand. As per Google Play “For every 6 MB increase to an APK’s size, we see a decrease in the install conversion rate of 1%”.
 
-At each stage, a few users drop off. Our goal is to reduce these drop-offs.
-(D1 Retention = % of users come back on the day after installation) 
+Next, users should experience the positive emotion on the first gameplay session. As per Google Play, users who spend 10 minutes or more have higher retention. For example, get an ace pair in Poker, complete a level in candy crush, matchmake with a lower rated opponent in chess, win a battle in Clash Royale, appreciation from group members in PUBG etc. We can also give a short term mission for new users to increase session length. 
 
-## KPIs to be Tracked
+For day 0, we should track onboarding and engagement metrics like onboarding completion %, users who spent at least 10 minutes % etc. 
 
-Here are the main KPIs to be tracked for the retention 
-1. D0 Time Spent (in minutes)
-2. D1, D2 D3, D7, D15, D21, D30, D60 Retention 
-(If a user stays till D60, they are more likely to stay in the game for a long time)
-3. DAU/MAU (Stickiness) 
+### Users should think of coming back again to the game
 
-### D0 Timespent
+Once a user completes his onboarding and first gamesession, we should focus on bringing back to the game. In one of the Linkedin articles, someone has mentioned that users come back to the game due to one of the reasons: Unfinished tasks, Friends or Community, Sense of progression, Fear of missing something and Expectation that the game will offer something new. I have seen these are implemented across various games
 
-Research shows that D0 time spent is the strong signal. Users who play longer on the day of install, they will be more likely to come back to the game.
+1. Unfinished tasks: In Clash Royale, it offers a chest reward which can open only after 90 minutes. So if I quit the game, I would likely open the game to claim the reward.
+2. Friends or Community: In Coin Master, it sends a notification to attack back when someone attacks your village. I tend to play games to get revenge. 
+3. Sense of progression: If i achieve something important in the game like a power booster, extra life etc, i would more likely to get back to the game. 
+4. Fear of missing something: If there is a 3 day knockout event and I have successfully completed Day 1, I would be more likely to come on Day 2. 
+5. Expectation that the game will offer something new: Coin Master has too many events running at a time. Sometimes, I want to login and see the events. And, if my favorite event is running, I do participate.
 
-### DAU/MAU - Stickiness
+### Users should return to the game 
 
-It measures the % of monthly users who play daily. DAU/MAU of 30% is considered good in casual games.
+When the user returns back to the game, they should feel great. In single player games, we can give bonuses (daily login bonuses, streak rewards, or loyalty programs) to play a few rounds of games. In multiplayer, along with bonuses, we can also nudge users to play with or against their friends which can make them feel good. For Day 1 to x, we can track Dx which is the percentage of users who come on x th day after install.
 
-### Rolling Retention 
-
-Some gaming companies also measure rolling retention.
-
-1. Retention Dx - % of users who return on the xth day after installation.
-2. Rolling Retention Dx - % of users who return on the xth day or later after installation.
-
-In KPIs, we track the trend, not the absolute value. So, the trend of these two metrics is the same, and we can track either one of them. Since classic retention is the more popular one, we track that.
-
-## Summary 
-
-1. Retention is the most important KPIs for a business. It will increase the user base over the time and thus overall revenue. 
-2. D0 time spent is the biggest signal of retention. If you can increase this, all the other metrics will be subsequently increased. 
-3. Retention is measured till D60. Post D60, % of drop is significantly low. 
