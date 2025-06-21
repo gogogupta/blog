@@ -12,7 +12,7 @@ To bring users, you would need to spend money on marketing . This is called User
 
 Profit = Revenue - Cost 
 1. Revenue = Ads +In App Purchase. 
-2, Cost = Fixed cost like employees, infrastructure etc + UA cost
+2. Cost = Fixed cost like employees, infrastructure etc + UA cost
 On the other hand, if your retention is high, it will reduce cost and thus increase the profit. 
 
 ## Why Measure Retention? 
