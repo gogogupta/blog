@@ -19,9 +19,9 @@ sass:
   style:             :compressed
 
 author:
-  name:              Nico Elayda
-  url:               nicoelayda.github.io
-  email:             nico@elayda.com
+  name:              Rohit Gupta
+  url:               https://www.linkedin.com/in/rohitgupta61/
+  email:             rohit.x.gupta@iiml.org
 
 plugins:
   - jekyll-coffeescript
