@@ -13,6 +13,7 @@ Increasing it depends following three things
 2. Users should think of coming back again to the game
 3. Users should return to the game 
 
+-----
 ### Users should like the game
 
 First, users should get to the game as quickly as possible. On first download, download only minimal files to let the user experience the game. As they grow older, we can start downloading other files in the background or on demand. As per Google Play “For every 6 MB increase to an APK’s size, we see a decrease in the install conversion rate of 1%”.
