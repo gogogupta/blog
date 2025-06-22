@@ -33,4 +33,13 @@ Who are you obliged to? Organisation or Individual? If an organisation, take dec
 
 ## How do I decide when there's too much information?
 Give a deadline. 
- 
+
+# To take a decision
+
+1. **Do you have enough information?** Note that the marginal gain from having additional information is rarely worth the effort.
+
+2. **Is it high impact?** If yes, go ahead. If not, ask whether it's worth it.
+
+3. **Is it expensive in terms of energy and price?** If it's low, go ahead. If high, reconsider relevance.
+
+4. **Is it reversible?** If so, make the decision more quickly. Hiring someone is reversible; letting someone go is not.
