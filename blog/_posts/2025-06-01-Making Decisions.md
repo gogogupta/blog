@@ -35,6 +35,8 @@ Who are you obliged to? Organisation or Individual? If an organisation, take dec
 
 Give a deadline. 
 
+------
+
 ## To Take a Decision Faster
 
 1. Do you have enough information? Note that the marginal gain from having additional information is rarely worth the effort.
@@ -44,3 +46,19 @@ Give a deadline.
 3. Is it expensive in terms of energy and price? If it's low, go ahead. If high, reconsider relevance.
 
 4. Is it reversible? If so, make the decision more quickly. Hiring someone is reversible; letting someone go is not.
+
+------
+
+## Decision Heuristic
+
+1. Kidlin’s Law - If you write a problem down clearly and specifically, you have solved half of it.
+
+2. Wilson’s Law - If you prioritise knowledge and intelligence, money will continue to come.
+
+3. Falkland’s Law - If you don't have to decide on something, then don't decide.
+
+4. Gilbert’s Law - When you take on a task, finding the best ways to achieve the desired result is always your responsibility.
+
+6. Murphy's Law - The more you fear something happening, the more likely it is to occur.
+
+(Credit: corentin.trebaol.com)
