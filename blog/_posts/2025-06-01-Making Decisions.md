@@ -15,9 +15,10 @@ excerpt_separator: <!--more-->
 3. Is it expensive in terms of energy and price? If it's low, go ahead. If high, reconsider relevance.
 
 4. Is it reversible? If so, make the decision more quickly. Hiring someone is reversible; letting someone go is not.
-<!--more-->
+
 ------
 
+<!--more-->
 ## Decision Heuristic
 
 1. Kidlin’s Law - If you write a problem down clearly and specifically, you have solved half of it.
