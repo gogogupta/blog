@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 
 ## Dan Ariely on Making Decisions
 
-What's happening in my brain when I make a decision?
+#### What's happening in my brain when I make a decision?
 
 Our brain is not designed to make modern day decisions such as using the brakes in the car when someone suddenly comes. It is evolved to make decisions such as being afraid from snakes, recognising colour, differentiating faces 
 etc. It is not designed to save energy.
@@ -34,7 +34,7 @@ Who are you obliged to? Organisation or Individual? If an organisation, take dec
 
 How do I decide when there's too much information?
 
-1. Give a deadline. 
+Give a deadline. 
 
 ## To Take a Decision Faster
 
