@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 
 ## Dan Ariely on Making Decisions
 
-#### What's happening in my brain when I make a decision?
+### What's happening in my brain when I make a decision?
 
 Our brain is not designed to make modern day decisions such as using the brakes in the car when someone suddenly comes. It is evolved to make decisions such as being afraid from snakes, recognising colour, differentiating faces 
 etc. It is not designed to save energy.
@@ -20,17 +20,17 @@ Stress is also emotional. Emotion decreases cognition. To make a good decision, 
 
 Take a third person's opinion. Since they are not involved in the decision, they can see the situation more cold and calculated way. Trick. Give yourself some advice. Rohit, what advice would you give in situation x?
 
-1. How do I make a decision when the stakes are high?
+### How do I make a decision when the stakes are high?
 When the stakes are high, emotions are also high and more people would look at the decision. When a decision gets bigger, we focus more on the downside. When the decisions are larger, put them in the bigger frame.
 
-2. Why do I procrastinate on making a decision?
+### Why do I procrastinate on making a decision?
 People don't want to deal with change. Stop and reflect.
 
-How do I decide when someone will be negatively impacted?
+### How do I decide when someone will be negatively impacted?
 
 Who are you obliged to? Organisation or Individual? If an organisation, take decision in favour of the organisation.
 
-How do I decide when there's too much information?
+### How do I decide when there's too much information?
 
 Give a deadline. 
 
