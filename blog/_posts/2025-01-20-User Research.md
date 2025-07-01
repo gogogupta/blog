@@ -34,7 +34,7 @@ If something does not make sense, play more. Try different things, and you will 
 
 Reach out to support. See how they talk to players.
 
-If it is multiplayer, play with real people. Talk to them. They often know things you don’t—like hidden rewards or clever strategies.
+If it is multiplayer, play with real people. Talk to them. They often know things you don’t like hidden rewards or clever strategies.
 
 Ask yourself:
 
@@ -52,7 +52,7 @@ Your notes should cover the following:
 5. Sale formats
 6. Mini-games
 7. Monetisation (Ads, IAP, or both)
-8. If it has ads, what type of ads do they use—rewarded videos, interstitials, banners, or offerwalls?
+8. If it has ads, what type of ads do they use rewarded videos, interstitials, banners, or offerwalls?
 9. When they start monetising (some games don’t monetise for a few days)
 10. Track social posts, emails, and push notifications
 11. What happens if you don’t play for a week
