@@ -4,6 +4,9 @@ title: How to prioritise?
 truncated_preview: true
 excerpt_separator: <!--more-->
 ---
+<div class="message">
+  I write notes to clarify my thinking on a topic. I share them publicly so others can point out any gaps.
+</div>
 
 Prioritisation means deciding what features to build next. It is important as it sets the direction of the product. If you keep building features that create incremental impact, you will keep growing the game.
 
