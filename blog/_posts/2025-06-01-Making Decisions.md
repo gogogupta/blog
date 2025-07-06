@@ -4,6 +4,9 @@ title: Making Decisions
 truncated_preview: true
 excerpt_separator: <!--more-->
 ---
+<div class="message">
+Writing notes helps me think more clearly. I share them in case someone spots a gap in my thinking.
+</div>
 
 ## To Take a Decision Faster
 
