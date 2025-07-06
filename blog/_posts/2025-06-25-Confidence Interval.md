@@ -34,7 +34,6 @@ The p-value tells us how likely the null hypothesis is true.
 ## Examples
 
 1. Suppose you think drinking green tea in the morning helps you stay more alert during the day. You ask 100 people to try this for a week and record their focus levels. You compare this with another group that didn't drink green tea.
-
 After running the data, you get a p-value of 0.03.
 That means CL = 0.97 (≥ 95%). It means green tea likely helps with alertness.
 
@@ -42,6 +41,5 @@ That means CL = 0.97 (≥ 95%). It means green tea likely helps with alertness.
 
 Your null hypothesis is: “Changing the color will not increase clicks.”
 You run an A/B test and get a p-value of 0.06. That means CL = 0.94. Since CL is below 95 percent, your change might not be effective.
-
 But if your p-value was 0.01, then CL = 0.99, which means your idea likely worked.
 
