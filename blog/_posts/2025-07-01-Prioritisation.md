@@ -45,7 +45,7 @@ If it does not impact gameplay, move it to the backlog and priortise. Around 20%
 ## 3. Urgent requirements
 here will always be some unavoidable requests — such as:
 
-1. Fixing a server crach 
+1. Fixing a server crash 
 2. Changing a config
 3. Fixing a user issue
 4. Adding event to track data
