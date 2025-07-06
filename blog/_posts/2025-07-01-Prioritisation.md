@@ -13,6 +13,7 @@ How to start? First, categorise all the features into three buckets:
 2. Technical requirement
 3. Urgent/live issues
 
+<!--more-->
 Business requirements can further be divided into:
 
 1. Big bets: Example - creating a new map in a battle royale game like PUBG. It can take a quarter to build.
