@@ -38,7 +38,6 @@ After running the data, you get a p-value of 0.03.
 That means CL = 0.97 (≥ 95%). It means green tea likely helps with alertness.
 
 2. You want to check if changing a button’s color increases clicks in your app.
-
 Your null hypothesis is: “Changing the color will not increase clicks.”
 You run an A/B test and get a p-value of 0.06. That means CL = 0.94. Since CL is below 95 percent, your change might not be effective.
 But if your p-value was 0.01, then CL = 0.99, which means your idea likely worked.
