@@ -5,7 +5,6 @@ truncated_preview: true
 excerpt_separator: <!--more-->
 ---
 
-
 ## To Take a Decision Faster
 
 1. Do you have enough information? Note that the marginal gain from having additional information is rarely worth the effort.

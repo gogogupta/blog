@@ -4,7 +4,9 @@ title: D1 Retention
 truncated_preview: true
 excerpt_separator: <!--more-->
 ---
-
+<div class="message">
+Writing notes helps me think more clearly. I share them in case someone spots a gap in my thinking.
+</div>
 
 If your game’s D1 retention is below 30%, stop adding features. There is a deeper issue. The core loop is not fun. Scaling a game with a broken loop will not help it grow.
 

@@ -4,6 +4,9 @@ title: Competitor Research
 truncated_preview: true
 excerpt_separator: <!--more-->
 ---
+<div class="message">
+Writing notes helps me think more clearly. I share them in case someone spots a gap in my thinking.
+</div>
 
 I have been heading Products in the mobile gaming industry for 6 years now. This is what works for me.
 

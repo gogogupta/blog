@@ -4,6 +4,9 @@ title: Confidence Level or p value
 truncated_preview: true
 excerpt_separator: <!--more-->
 ---
+<div class="message">
+Writing notes helps me think more clearly. I share them in case someone spots a gap in my thinking.
+</div>
 
 Understanding p value can be confusing. People who get it have an edge over those who don’t.
 

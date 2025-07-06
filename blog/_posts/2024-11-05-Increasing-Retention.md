@@ -4,6 +4,9 @@ title: Retention KPIs
 truncated_preview: true
 excerpt_separator: <!--more-->
 ---
+<div class="message">
+Writing notes helps me think more clearly. I share them in case someone spots a gap in my thinking.
+</div>
 
 Retention is the most important KPI in free-to-play mobile games. It is a measure of how many players are returning to the game after installing it. 
 
