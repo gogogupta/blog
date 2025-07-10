@@ -3,9 +3,9 @@ layout: page
 title: My Work
 ---
 
-# 2025 
+## 2025 
 
-## Heading Octro Poker and Teenpatti: Responsible for P&L 
+Heading Octro Poker and Teenpatti: Responsible for P&L 
 
 1. Retention: Login Bonus: Designed to 1) reduce the sense of loss when they miss a day and 2) solve the problem of an inflationary economy due to ever increasing high bonuses. 
 
