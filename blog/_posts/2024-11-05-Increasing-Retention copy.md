@@ -6,6 +6,8 @@ excerpt_separator: <!--more-->
 ---
 
 Writing
-* [The Day You Became A Better Writer](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
+* [The Day You Became A Better Writer]
+(https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
+* 
 
 
