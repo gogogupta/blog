@@ -4,7 +4,7 @@ title: Personal Canon
 truncated_preview: true
 excerpt_separator: <!--more-->
 ---
-
+<!--more-->
 General Advice
 * [Advice That Actually Worked For Me](https://nabeelqu.substack.com/p/advice)
 * [The 10 Best Ideas I Learned in 2022](https://www.gurwinder.blog/p/the-10-best-ideas-i-learned-in-2022)

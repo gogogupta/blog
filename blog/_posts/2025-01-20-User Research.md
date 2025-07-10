@@ -12,6 +12,7 @@ I have been heading Products in the mobile gaming industry for 6 years now. This
 
 Start by picking the top 5 products in your industry. Try them all. Then choose the one you personally enjoy. You will only dig deep if you genuinely like the product and use it regularly.
 
+<!--more-->
 In this blog post, I will talk about my industry, i.e., the mobile games industry.
 
 Every game is different. Each one can have different graphics, sound, UX, economy, difficulty, progression, etc. Start spending 30 minutes a day playing and observing.

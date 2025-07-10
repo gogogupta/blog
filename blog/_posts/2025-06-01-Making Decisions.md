@@ -44,7 +44,6 @@ Writing notes helps me think more clearly. I share them in case someone spots a 
 Our brain is not designed to make modern day decisions such as using the brakes in the car when someone suddenly comes. It is evolved to make decisions such as being afraid from snakes, recognising colour, differentiating faces 
 etc. It is not designed to save energy.
 
-<!--more-->
 #### How do I make a decision under stress?
 
 We don't make good decisions under stress. Stress narrows down our attention and focuses on only a few things. In the jungle, when there is a tiger, our brain narrows out decisions instead of evaluating all decisions and finding pros and cons.
