@@ -66,3 +66,6 @@ Who are you obliged to? Organisation or Individual? If an organisation, take dec
 #### How do I decide when there's too much information?
 
 Give a deadline. 
+
+-----
+You can reach out to me via [Linkedin](https://www.linkedin.com/in/rohitgupta61) or [email](mailto:rohit.x.gupta@iiml.org).

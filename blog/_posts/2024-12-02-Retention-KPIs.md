@@ -42,3 +42,5 @@ Once a user completes his onboarding and first gamesession, we should focus on b
 
 When the user returns back to the game, they should feel great. In single player games, we can give bonuses (daily login bonuses, streak rewards, or loyalty programs) to play a few rounds of games. In multiplayer, along with bonuses, we can also nudge users to play with or against their friends which can make them feel good. For Day 1 to x, we can track Dx which is the percentage of users who come on x th day after install.
 
+-----
+You can reach out to me via [Linkedin](https://www.linkedin.com/in/rohitgupta61) or [email](mailto:rohit.x.gupta@iiml.org).

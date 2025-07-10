@@ -27,4 +27,7 @@ Ask for notification permission later on Day 1. Lock some content and let users 
 
 For old games, use a different approach. If it is a single-player game and you already have enough users, do not run new campaigns. New users will not improve the experience. But if it is a multiplayer game, bringing new users can help improve matchmaking.
 
-D1 depends on D0. D2 depends on D1. D3 depends on D2. Retention works like a chain. Fix the first link first
+D1 depends on D0. D2 depends on D1. D3 depends on D2. Retention works like a chain. Fix the first link first.
+
+-----
+You can reach out to me via [Linkedin](https://www.linkedin.com/in/rohitgupta61) or [email](mailto:rohit.x.gupta@iiml.org).

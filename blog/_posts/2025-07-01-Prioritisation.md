@@ -74,4 +74,5 @@ Steps to handle this:
 2. Show the scores of existing items and how adding this request could delay more impactful features.
 3. If they still want to go ahead, build it. Their wisdom might not be visible on paper.
 
-
+-----
+You can reach out to me via [Linkedin](https://www.linkedin.com/in/rohitgupta61) or [email](mailto:rohit.x.gupta@iiml.org).

@@ -45,3 +45,5 @@ Your null hypothesis is: “Changing the color will not increase clicks.”
 You run an A/B test and get a p-value of 0.06. That means CL = 0.94. Since CL is below 95 percent, your change might not be effective.
 But if your p-value was 0.01, then CL = 0.99, which means your idea likely worked.
 
+-----
+You can reach out to me via [Linkedin](https://www.linkedin.com/in/rohitgupta61) or [email](mailto:rohit.x.gupta@iiml.org).

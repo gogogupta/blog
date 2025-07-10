@@ -64,3 +64,6 @@ Your notes should cover the following:
 
 Finally, study new games by the same company. Are they solving past pain points? Or repeating the same mistakes? Sometimes, friction is intentional.
 
+-----
+You can reach out to me via [Linkedin](https://www.linkedin.com/in/rohitgupta61) or [email](mailto:rohit.x.gupta@iiml.org).
+

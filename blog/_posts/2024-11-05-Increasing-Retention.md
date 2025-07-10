@@ -61,3 +61,6 @@ In KPIs, we track the trend, not the absolute value. So, the trend of these two 
 1. Retention is the most important KPIs for a business. It will increase the user base over the time and thus overall revenue. 
 2. D0 time spent is the biggest signal of retention. If you can increase this, all the other metrics will be subsequently increased. 
 3. Retention is measured till D60. Post D60, % of drop is significantly low. 
+
+-----
+You can reach out to me via [Linkedin](https://www.linkedin.com/in/rohitgupta61) or [email](mailto:rohit.x.gupta@iiml.org).
