@@ -8,8 +8,7 @@ title: My Work
 Heading Octro Poker and Teenpatti: Responsible for P&L 
 
 1. Retention: Login Bonus: Designed to 1) reduce the sense of loss when they miss a day and 2) solve the problem of an inflationary economy due to ever increasing high bonuses. 
-
-Upliftment: Increased ARPDAU and Retention (D7, D30). 
+**Upliftment**: Increased ARPDAU and Retention (D7, D30). 
 
 2. Monetisation: Redesign the economy. Added a sense of progression with reducing free gameplay minutes as users grow higher on XP curve. 
 
