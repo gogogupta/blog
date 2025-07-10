@@ -11,6 +11,7 @@ Heading Octro Poker and Teenpatti: Responsible for P&L
 **Upliftment**: Increased ARPDAU and Retention (D7, D30). 
 
 2. Monetisation: Redesign the economy. Added a sense of progression with reducing free gameplay minutes as users grow higher on XP curve. 
+**Upliftment**: Increased ARPDAU and Retention (D7, D30). 
 
 Upliftment: Increased ARPDAU and Retention (D7, D30). 
 
