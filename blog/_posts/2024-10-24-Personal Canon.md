@@ -22,5 +22,12 @@ Gaming
 * [Land value tax in online games and virtual worlds](https://www.gamedeveloper.com/design/land-value-tax-in-online-games-and-virtual-worlds-a-how-to-guide)
 * [Why Everything is Becoming a Game by Gurwinder](https://www.gurwinder.blog/p/why-everything-is-becoming-a-game)
 
-Culture
+Product Management
+* [How To Get Into Product Management by Lenny Rachitsky](https://medium.com/hackernoon/how-to-get-into-product-management-78c58bd9c8cf)
+* [Good Product Manager/Bad Product Manager by Ben Horowitz](https://a16z.com/good-product-manager-bad-product-manager/)
+* [Be a Great Product Leader by Adam Nash](https://adamnash.blog/2011/12/16/be-a-great-product-leader/)
+* [What distinguishes the Top 1% of product managers from the Top 10%? by Ian McAllister](https://qr.ae/pABv35)
+
+Random
 * [Love, from Ghibli’s Perspective](https://medium.com/ellemeno/love-from-ghiblis-perspective-cf22bb0a9002)
+
