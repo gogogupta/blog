@@ -4,6 +4,10 @@ title: Personal Canon
 truncated_preview: true
 excerpt_separator: <!--more-->
 ---
+<div class="message">
+These are some of the best write ups on the topic. I read them a couple of times a year.
+</div>
+
 <!--more-->
 General Advice
 * [Advice That Actually Worked For Me](https://nabeelqu.substack.com/p/advice)
@@ -30,3 +34,6 @@ Product Management
 
 Random
 * [Love, from Ghibli’s Perspective](https://medium.com/ellemeno/love-from-ghiblis-perspective-cf22bb0a9002)
+
+-----
+You can reach out to me via [Linkedin](https://www.linkedin.com/in/rohitgupta61) or [email](mailto:rohit.x.gupta@iiml.org)
